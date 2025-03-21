@@ -47,8 +47,8 @@ Here's your repository content with beautiful buttons and icons:
 </p>
 
 <div align="center">
-  <h2>🤖 DIDULA MD WhatsApp Bot</h2>
-  <p>A powerful WhatsApp bot created by Didula Rashmika using Baileys API</p>
+  <h2>🤖 RTD TEAM WhatsApp Bot</h2>
+  <p>A powerful WhatsApp bot created by RTD TEAM OWENERS using Baileys API</p>
 </div>
 
 <div align="center">
@@ -78,7 +78,7 @@ Here's your repository content with beautiful buttons and icons:
 
 <div align="center">
   <h3>📞 Support & Updates</h3>
-  <a href="https://whatsapp.com/channel/0029VaqqF4GDTkJwKruLSK2f">
+  <a href="https://whatsapp.com/channel/0029Vb4jnKF0Qeaozdvx2J3s">
     <img src="https://img.shields.io/badge/💬_WhatsApp_Channel-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
