@@ -3,7 +3,7 @@ Here's your repository content with beautiful buttons and icons:
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://i.postimg.cc/50Qd4Kws/IMG-20250312-WA0022.jpg"  width="640" height="309">
+<img src = "https://files.catbox.moe/eigd9d.jpg"  width="640" height="309">
 </img>
  
 ---
