@@ -8,7 +8,7 @@ Here's your repository content with beautiful buttons and icons:
  
 ---
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;DIDULA+MD;Thanks+for+visiting!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;RTD+TEAM;Thanks+for+visiting!"/>
 </a>
 
 ---
